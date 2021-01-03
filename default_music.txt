@@ -229,6 +229,7 @@ accademiamusicamoderna.it
 accentmusiccds.com
 accentonmusic.com
 access-music.de
+accounts.spotify.com
 acclaimedmusic.net
 acdccentral.com
 acdc.com
@@ -8884,7 +8885,7 @@ spoonmusic.net
 spotify.com
 spotify.com.br
 spotify.fr
-spotify.com/br/
+spotify.com.*
 spreadmusic.com
 spread-music.de
 sprengermusic.com
@@ -9042,6 +9043,7 @@ supermusic.sk
 superplayer.fm
 supertramp.lyrics-songs.com
 supportimusicali.it
+support.spotify.com
 suprememusic.co.uk
 surfmusik.de
 surijapop.com
